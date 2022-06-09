@@ -58,6 +58,8 @@ public class data_type {
 		
 		// ### 명시적 형 변환
 		int g = (int) 100.0F; // 수동으로
+		
+		
 	}
 
 }
