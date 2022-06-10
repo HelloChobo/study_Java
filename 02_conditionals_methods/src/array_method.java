@@ -2,7 +2,7 @@
 public class array_method {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// ★ void : 리턴값으로 아무것도 출력하지 않음
 		
 		// 배열 선언
 		String[] classgroup = {"가나다", "라마바사", "아자차카"};
